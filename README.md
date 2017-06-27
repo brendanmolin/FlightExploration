@@ -1,5 +1,4 @@
-# Flight Exploration: 
-Network Analysis Practice
+# Flight Exploration
 
 Most network data are not as tidy as one finds in an igraph vignette. Networks in real life are wide, scattered, full of chance encounters, varying in strength and scope, and it can be extremely difficult to parse through the noise to identify the valueable relationships.
 

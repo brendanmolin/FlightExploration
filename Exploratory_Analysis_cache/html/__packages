@@ -1,0 +1,8 @@
+base
+ggplot2
+lattice
+ggmap
+OpenStreetMap
+igraph
+sp
+geosphere
